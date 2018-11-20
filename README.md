@@ -18,5 +18,5 @@ Generate Fibonacci Sequence using python and some worst practices for coding
 * zeroints class provides no additional value (code could easily be re-written without it, and easier to read)
 * nonsense (though 'correct') error checking (errchk) routine
 * algorithm doesn't actually start with 0,1,1 for the sequence, so it's patched into the beginning
-** nonsense abuse of regex
-** logic is flawed enough to have to patch after 12 numbers of sequence
+* nonsense abuse of regex
+* logic is flawed enough to have to patch after 12 numbers of sequence
